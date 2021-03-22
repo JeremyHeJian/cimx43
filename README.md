@@ -1,3 +1,5 @@
-# Exercises for CIMx43
+# Exercises for CIM443/643
 
-There are my exercises.
+These are my exercises.
+
+1. Poem: [link](./poem/)
